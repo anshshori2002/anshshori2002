@@ -1,5 +1,6 @@
-### Hi👋,I am Ansh Shori
-### I am Enthuiastic in Coding and Android development.
+#### Hi! <img src="https://c.tenor.com/z2xJqhCpneIAAAAC/wave-hand.gif>
+### I am Ansh Shori
+### An Enthuiastic in Coding and Android development.
 
 <!--
 **anshshori2002/anshshori2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
