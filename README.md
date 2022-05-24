@@ -1,4 +1,4 @@
-#### Hi! <img src="https://c.tenor.com/z2xJqhCpneIAAAAC/wave-hand.gif>
+#### Hi! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">
 ### I am Ansh Shori
 ### An Enthuiastic in Coding and Android development.
 
