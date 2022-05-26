@@ -1,6 +1,6 @@
 #### Hi! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">
 ### I am Ansh Shori
-### An Enthuiastic in Coding and Android development.
+### An Enthuiastic Coder and Android developer.
 
 <!--
 **anshshori2002/anshshori2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
