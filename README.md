@@ -1,4 +1,4 @@
-## <img src="https://c.tenor.com/faC-6ztGxMEAAAAC/hi-wave.gif" width="19px">
+## <img src="https://c.tenor.com/uQJyw8sJs5kAAAAC/emoji-emoji-hello.gif">
 ### I am Ansh Shori
 ### An Enthuiastic Coder and Android developer.
 
