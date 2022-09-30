@@ -1,9 +1,9 @@
 ## <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
-### I am Ansh Shori
+### Hi👋, I am Ansh Shori
 ### An Enthuiastic Coder and Android developer.
+- 🌱 I’m currently learning Machine Learning and building projects.
 
 <!--
-**anshshori2002/anshshori2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
