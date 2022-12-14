@@ -3,6 +3,8 @@
 ### An Enthuiastic Coder and Android developer.
 - 🌱 I’m currently learning Machine Learning and building projects.
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshshori2002&theme=nord)
+
 [![@anshshori's Holopin board](https://holopin.me/anshshori)](https://holopin.io/@anshshori)
 <!--
 
