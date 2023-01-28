@@ -19,7 +19,13 @@
 <h3 align="right">Profile views:</h3>
 <p align="right">
   <img src="https://profile-counter.glitch.me/%7Banshshori2002%7D/count.svg"/>
+  
 </p>
+
+<br><br> <hr> <h3 align="center">Connect with me:</h3> <p align="center"> <a href="https://twitter.com/AnshShori" target="blank">
+  <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="AnshShori" height="50" width="50" /></a>
+  &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/anshshori/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Ansh Shori" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://instagram.com/ansh_shori_3" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="ansh_shori_3" height="50" width="50" /></a> </p> <hr>
 
 <!--
 
