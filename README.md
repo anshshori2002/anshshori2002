@@ -1,9 +1,18 @@
-## <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 ### Hi👋, I am Ansh Shori
 ### An Enthuiastic Coder and Android developer.
-- 🌱 I’m currently learning Machine Learning and building projects.
+-  I’m currently learning Machine Learning and building projects.
+-  I'm also working on DSA.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshshori2002&theme=nord)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=anshshori2002&color=orange"/>
+</p>
+
+<img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshshori2002&theme=nord"/>
+</p>
+
 
 [![@anshshori's Holopin board](https://holopin.me/anshshori)](https://holopin.io/@anshshori)
 <!--
