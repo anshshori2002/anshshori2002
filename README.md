@@ -7,10 +7,15 @@
   <img src="https://komarev.com/ghpvc/?username=anshshori2002&color=orange"/>
 </p>
 
-<img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
+  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshshori2002&theme=nord"/>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-stats.clckblog.space/api?username=anshshori2002&show_icons=true&theme=radical"/>
 </p>
 
 
