@@ -3,14 +3,10 @@
 -  I’m currently learning Machine Learning and building projects.
 -  I'm also working on DSA.
 
-<p align="right">
-  <img src="https://profile-counter.glitch.me/%7Banshshori2002%7D/count.svg"/>
-</p>
-
 
   
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshshori2002&theme=radial"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshshori2002&show_icons=true&theme=nord"/>
 </p>
 
 
@@ -20,6 +16,11 @@
 
 
 [![@anshshori's Holopin board](https://holopin.me/anshshori)](https://holopin.io/@anshshori)
+<h3 align="right">Profile views:</h3>
+<p align="right">
+  <img src="https://profile-counter.glitch.me/%7Banshshori2002%7D/count.svg"/>
+</p>
+
 <!--
 
 Here are some ideas to get you started:
