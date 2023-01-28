@@ -4,7 +4,7 @@
 -  I'm also working on DSA.
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=anshshori2002&color=orange"/>
+  <img src="https://profile-counter.glitch.me/%7Banshshori2002%7D/count.svg"/>
 </p>
 
 
