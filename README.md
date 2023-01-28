@@ -10,7 +10,7 @@
 
   
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshshori2002&theme=nord"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshshori2002&theme=radial"/>
 </p>
 
 
