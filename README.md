@@ -6,12 +6,11 @@
 
   
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshshori2002&theme=nord"/>
+  <img height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=anshshori2002&theme=nord"/>
 </p>
 
-
 <p align="center">
-  <img src="https://readme-stats.clckblog.space/api?username=anshshori2002&show_icons=true&theme=radical"/>
+  <img height="200px" width="400" src="https://readme-stats.clckblog.space/api?username=anshshori2002&show_icons=true&theme=radical"/>
 </p>
 
 
