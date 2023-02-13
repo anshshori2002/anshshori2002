@@ -1,9 +1,14 @@
-### Hi👋, I am Ansh Shori
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Ansh Shori</h1>
+<h5 align="center">
+  
 ### An Enthuiastic Coder and Android developer.
 -  I’m currently learning Machine Learning and building projects.
 -  I'm also working on DSA.
 
-
+</h5>
   
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=anshshori2002&theme=nord"/>
