@@ -6,7 +6,7 @@
   
 ### An Enthuiastic Coder and Android developer.
 -  I’m currently learning Machine Learning and building projects.
--  I'm also working on DSAin C or C++.
+-  I'm also working on DSA in C or C++.
 
 </h5>
   
