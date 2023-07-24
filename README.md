@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Ansh Shori</h1>
 <h5 align="center">
-  
+
 ### An Enthuiastic Coder and Android developer.
 -  I’m currently learning Machine Learning and building projects.
 -  I'm also working on DSA in C and C++.
