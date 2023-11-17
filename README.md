@@ -32,7 +32,6 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://instagram.com/ansh_shori_3" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="ansh_shori_3" height="50" width="50" /></a> </p> <hr>
 
 <!--
-
 Here are some ideas to get you started
 
 - 🔭 I’m currently working on ...
