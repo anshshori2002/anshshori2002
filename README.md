@@ -6,7 +6,7 @@
 
 ### An Enthuiastic Coder.
 -  I’m currently learning Machine Learning and building projects.
--  I'm also working on DSA in C and C++.
+-  I'm also working on DSA in C++.
 
 </h5>
   
