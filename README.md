@@ -20,7 +20,7 @@
 </p>
 
 
-[![@anshshori's Holopin board](https://holopin.me/anshshori)](https://holopin.io/@anshshori)
+<!--[![@anshshori's Holopin board](https://holopin.me/anshshori)](https://holopin.io/@anshshori)-->
 <h3 align="right">Profile views:</h3>
 <p align="right">
   <img src="https://profile-counter.glitch.me/%7Banshshori2002%7D/count.svg"/>
